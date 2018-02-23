@@ -1,7 +1,7 @@
 # osmocom_cfg1
 My working single computer Osmocom cfg files for nitb and gprs
 
-These are the osmocom .cfg files that work for my setting up an osmo-nitb 2G cell with GPRS.<br/>
+These are the osmocom .cfg files that work for my set up, an osmo-nitb 2G cell with GPRS.<br/>
 Largely following https://osmocom.org/projects/cellular-infrastructure/wiki/OpenBSC_GPRS<br/>
 with hints from videos: https://www.youtube.com/watch?v=2SNb4pXnN80&app=desktop<br/>
 and: https://www.youtube.com/watch?v=Y5Jww5BWRx4&app=desktop<br/>
