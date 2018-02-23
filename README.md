@@ -15,10 +15,10 @@ Run in screen sessions in the directory with the .cfg files, and using USB3 to a
 I'm also using 10MHz clock reference from a Trimble Thunderbolt and extREF set.<br/>
 
 Startup, in each terminal or screen:<br/>
- # osmo-trx -b 4 -s 4<br/>
- # osmo-nitb -m -P<br/>
- # lcr start<br/>
- # osmo-pcu<br/>
- # osmo-sgsn<br/>
- # osmo-ggsn<br/>
- # osmo-bts-trx<br/>
+ \# osmo-trx -b 4 -s 4<br/>
+ \# osmo-nitb -m -P<br/>
+ \# lcr start<br/>
+ \# osmo-pcu<br/>
+ \# osmo-sgsn<br/>
+ \# osmo-ggsn<br/>
+ \# osmo-bts-trx<br/>
