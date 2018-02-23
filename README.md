@@ -16,7 +16,7 @@ I'm also using 10MHz clock reference from a Trimble Thunderbolt and extREF set.<
 
 Startup, in each terminal or screen:<br/>
 ```
-# osmo-trx -b4 -s4                 LimeSDR needs settings for TX/RX Samples-per-symbol<br/>
+# osmo-trx -b4 -s4                 LimeSDR needs settings for TX/RX Samples-per-symbol
 # osmo-nitb -m -P<br/>
 # lcr start<br/>
 # osmo-pcu<br/>
